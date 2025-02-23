@@ -1,2 +1,3 @@
 # Futz
-Futzer Effect
+Futzer Effect<br>
+Use High Pass Filter after plugin.
