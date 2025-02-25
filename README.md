@@ -1,3 +1,3 @@
 # Futz
 Futzer Effect<br>
-Use High Pass Filter after plugin.
+Use Low Pass Filter after plugin.
